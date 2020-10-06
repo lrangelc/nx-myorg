@@ -1,0 +1,18 @@
+{
+    "peacock.color": "08d6fc",
+    "vsicons.presets.angular": true,
+    "html.format.wrapAttributes": "force-aligned",
+    "workbench.colorCustomizations": {
+      "activityBar.activeBorder": "#8cc640",
+      "activityBar.foreground": "#ffffff",
+      "activityBarBadge.background": "#8cc640",
+      "activityBarBadge.foreground": "#252525",
+      "titleBar.activeBackground": "#8cc640",
+      "titleBar.inactiveBackground": "#8cc640",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveForeground": "#15202b99",
+      "statusBar.background": "#8cc640",
+      "statusBarItem.hoverBackground": "#8cc640",
+      "statusBar.foreground": "#15202b"
+    }
+  }
